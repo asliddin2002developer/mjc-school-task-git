@@ -1,0 +1,26 @@
+From 38dc64a12ab3aa7d7b267c6d262447dcbd71a66e Mon Sep 17 00:00:00 2001
+From: asliddin2002developer <eshonkulovasliddindeveloper@gmail.com>
+Date: Wed, 11 Jan 2023 21:04:21 +0500
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 3bd8120..b8fb5c8 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -6,5 +6,5 @@ fifth line
+ sixth line
+ seventh line
+ eighth line
+-ninth line
+-tenth line
+\ No newline at end of file
++9 line
++10 line
+\ No newline at end of file
+-- 
+2.25.1
+
